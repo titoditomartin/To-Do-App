@@ -73,7 +73,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1 className="header-title">To-Do-App</h1>
+        <h1 className="header-title">To-Do-App (Febrian Martin - 2602200483)</h1>
         <button className="add-button" onClick={() => setShowModal(true)}>Add Todo</button>
         <button className="filter-button" onClick={toggleFilterDone}>
           {filterDone ? "Show All" : "Show Done"}
