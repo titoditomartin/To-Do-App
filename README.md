@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do-List-Web-App
 
 Andrew Sebastian Sibuea - 2602169711
@@ -33,3 +34,6 @@ To run the application locally, follow these steps:
 6. Once the development server is started, open your preferred web browser and enter the URL provided by the development server (e.g.`http://localhost:3000`).
 
 
+=======
+# To-Do-App
+>>>>>>> 9662ee49e09379d66c893bc48b84faa3101534da
