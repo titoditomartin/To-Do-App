@@ -3,7 +3,7 @@
 
 Febrian Martin Herdito - 2602200483
 
-## OTo-Do-App
+## To-Do-App
 A simple to-do list application that can add, delete, and filter completed and uncompleted tasks.
 
 ## Demo
