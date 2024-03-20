@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # To-Do-List-Web-App
 
 Febrian Martin Herdito - 2602200483
